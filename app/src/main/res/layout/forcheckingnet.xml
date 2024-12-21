@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#203354"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/no_internet_icon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/baseline_wifi_off_24"
+    />
+
+    <TextView
+        android:id="@+id/no_internet_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No Internet Connection"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/no_internet_subtext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Please check your connection and try again."
+        android:textColor="#CCCCCC"
+        android:textSize="16sp"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:id="@+id/try_again_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Retry"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="#FFA500"
+    android:textColor="@android:color/white"
+    android:padding="12dp"
+    android:textSize="16sp"/>
+
+</LinearLayout>

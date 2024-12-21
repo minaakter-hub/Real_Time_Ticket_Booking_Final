@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+
+        android:id="@+id/page_1"
+        android:enabled="true"
+        android:icon="@drawable/baseline_dashboard_24"
+        android:title="Dashboard"/>
+    <item
+        android:id="@+id/page_2"
+        android:enabled="true"
+        android:icon="@drawable/baseline_movie_24"
+        android:title="All Movie"/>
+    <item
+        android:id="@+id/page_3"
+        android:enabled="true"
+        android:icon="@drawable/bookmark"
+        android:title="Booked"/>
+    <item
+        android:id="@+id/page_4"
+        android:enabled="true"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="Account"/>
+
+</menu>

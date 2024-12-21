@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UddoktaPay</string>
+    <string name="channel_name">Booking Notifications</string>
+    <string name="channel_description">Notifications about your bookings, including confirmations,
+        updates, and reminders.
+    </string>
+    <string name="api_key">AIzaSyCjQKH6pwCgA2qdH_arBpAKG30VOvlgmQQ</string>
+</resources>

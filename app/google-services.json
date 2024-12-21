@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "579700158520",
+    "firebase_url": "https://realtime-ticket-d1942-default-rtdb.firebaseio.com",
+    "project_id": "realtime-ticket-d1942",
+    "storage_bucket": "realtime-ticket-d1942.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579700158520:android:9f49cb7e073475f1a9b6cd",
+        "android_client_info": {
+          "package_name": "com.rbmjltd.uddoktapay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxS2-6IN_1l4uN4oxIw3Dn7sVocuYJp-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
